@@ -19,7 +19,7 @@ library(kableExtra)
 
 \bigskip
 
-The code to reproduce this report is available *[on Github](https://github.com/lucacurran/data-mining-final-project).*
+The code to reproduce this report is available *[on Github](https://github.com/wdbuch/stat-471-final-project).*
 
 \newpage
 
